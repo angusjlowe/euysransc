@@ -1,0 +1,37 @@
+.logo {
+    max-height:4em;
+    margin-top: -2em;
+}
+
+.customnav {
+  height:7em;
+}
+
+.customnav > div {
+  padding-top: 1.5em;
+}
+
+}
+header > .container {
+  opacity:1;
+}
+
+.customul > li > a {
+  color:black;
+}
+
+.intro-lead {
+  font-size:3em;
+}
+.introtext {
+  background-color: rgba(10,10,10,0.2);
+}
+.introductiontext {
+  font-size: 1.7em;
+}
+#services {
+  margin-top:-8em;
+}
+.about {
+
+}
