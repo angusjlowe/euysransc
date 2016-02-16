@@ -27,7 +27,7 @@ header > .container {
   background-color: rgba(10,10,10,0.1);
 }
 .introductiontext {
-  font-size: 1em;
+  font-size: 1.2em;
 }
 #services {
   margin-top:-8em;
@@ -46,4 +46,14 @@ header > .container {
   font-style: italic;
   font-size: 2em;
 
+}
+.speakertext {
+  font-size:1.2em;
+  background-color: rgba(255,255,255,0.1)
+}
+.speaker {
+  background-image: url(../img/robots.png);
+}
+.robots {
+  margin-top: -4em;
 }
