@@ -24,3 +24,7 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$('.navbar-header button').click(function() {
+    $('.nav').addClass("blacknav");
+});
